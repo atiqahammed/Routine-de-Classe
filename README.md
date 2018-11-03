@@ -1,2 +1,2 @@
 # Routine-de-Classe
-In computer science, a control flow graph (CFG) is the graphical representation of control flow or computation during the execution of programs or applications. In this project I am reading java code and making control flow graph for all function from the given java code.
+This is an android application for maintaining class routine. This application will provide it's user to create any class routine, maintain the routine, invite other users to be added to the routine and join to a specific groups to have their class schedule.
