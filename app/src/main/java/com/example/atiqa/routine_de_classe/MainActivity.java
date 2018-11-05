@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // Stoping this layout for 4 sec and then lunching homeActivity
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
@@ -22,5 +23,7 @@ public class MainActivity extends AppCompatActivity {
                 finish();
             }
         }, SPLASh_TIME_OUT);
+
+
     }
 }
