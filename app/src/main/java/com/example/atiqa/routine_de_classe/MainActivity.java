@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
             }
         }, SPLASh_TIME_OUT);
 
+        /// test
+
 
     }
 }
